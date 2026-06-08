@@ -1,6 +1,6 @@
 # Hi there, I'm Ankita Bera 👋
 
-### Computer Science Engineering Student | Full-Stack & DevOps Enthusiast | Aspiring UI/UX Designer & Data Analyst
+### Computer Science Engineering Student | Passionate Frontend Developer| Aspiring UI/UX Designer & Data Analyst
 
 An enthusiastic, passionate, and detail-oriented Computer Science Engineering student looking for opportunities to apply programming and problem-solving skills to real-world projects. Deeply interested in innovative technologies, cloud workflows, and creating elegant user experiences.
 
@@ -9,10 +9,10 @@ An enthusiastic, passionate, and detail-oriented Computer Science Engineering st
 ## 🛠 Skills & Technical Arsenal
 
 * **💻 Programming:** C, C++, Python, Data Structures & Algorithms (DSA)
-* **🌐 Web Development:** HTML, CSS, JavaScript, Three.js
+* **🌐 Web Development:** HTML, CSS, React.js, Three.js
 * **📊 Data Analysis:** SQL, MySQL
 * **🎨 UI/UX & Design:** Figma, Canva
-* **🧠 Soft Skills:** Problem Solving, Creative Thinking, Crisis Management, Time Management, Negotiation
+* **🧠 Soft Skills:** Problem Solving, Creative Thinking, Crisis Management, Time Management, Communication 
 
 ---
 
@@ -27,7 +27,7 @@ An enthusiastic, passionate, and detail-oriented Computer Science Engineering st
 
 ## 🚀 Key Projects
 
-### **VIRTUZOO** *(2023)*
+### **VIRTUALZOO** *(2023)*
 * Developed a dynamic Virtual Zoo web platform featuring highly intuitive interface navigation.
 * Integrated **3D animal visualization** pipelines to create interactive, immersive learning environments using **HTML, CSS, Figma, and Three.js**.
 
